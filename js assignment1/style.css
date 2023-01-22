@@ -1,0 +1,26 @@
+* {
+    color: black;
+    font-size: 20px;
+    text-align: center;
+}
+
+#first {
+    margin: 80px 40px;
+    font-size: 50px;
+    color: red;
+    text-shadow: 2px 1px black;
+}
+
+#first span {
+    color: blue;
+    font-size: 60px;
+}
+
+#btn button {
+    margin: 50px;
+    font-size: 40px;
+    border-radius: 50px;
+    border-color: blue;
+    padding: 10px;
+    cursor: pointer;
+}
